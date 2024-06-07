@@ -18,5 +18,4 @@ server_scripts {
 	'@oxmysql/lib/MySQL.lua',
 	'config.lua'
 }
-
 lua54 'yes'
